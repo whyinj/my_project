@@ -3,3 +3,4 @@ I'm testing on Ubuntu.
 I'm adding a line.
 
 Suddenly, adding new line!
+You can use git commit -a to commit updating Tracked files automatically.
